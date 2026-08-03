@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  width: 80vmin;   /* Scaled relative to the smaller screen dimension */
+  height: 80vmin;  /* Keeps the grid a perfect, fluid square */
+  gap: 0.5vmin;    /* Relative spacing between cells */
+  margin: 5vmin;
+}
+
+.grid div {
+  background-color: #3498db;
+}
