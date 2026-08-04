@@ -1,12 +1,12 @@
-import Header from "../components/Board";
-import Button from "../components/Board";
+import Header from "../components/Header";
+import Button from "../components/Button";
 import Board from "../components/Board";
 
 export default function GamePage(){
     return(
         <>
-        <Header/>
-        <Board/>
+        <Header />
+        <Board />
         <Button />
         </>
     )
