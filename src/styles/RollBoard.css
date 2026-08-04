@@ -2,12 +2,15 @@
     display: flex;
     flex-direction: column;
     height: 80%;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-color: var(--rw-yellow);
+    width: 250px;
 }
 
 h2{
     text-align: center;
     border-bottom: 3px solid var(--rw-red);
+    color: var(--rw-red);
 }
 
