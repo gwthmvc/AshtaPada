@@ -5,3 +5,8 @@
   --rw-red: #e53935;
   --rw-yellow: #F4D03F;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+}
