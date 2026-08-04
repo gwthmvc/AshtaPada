@@ -1,4 +1,5 @@
 .title{
   text-align: center;
   color: var(--rw-yellow);
+  width: 100vh;
 }

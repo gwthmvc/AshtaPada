@@ -7,10 +7,10 @@ import RollBoard from "../components/RollBoard";
 export default function GamePage(){
     return(
         <>
+        <Header />
         <div className="FullLayout">
             <div className="PlayerBoard"></div>
             <div className="Gamepage">
-            <Header />
             <Board />
             <Button />
             </div>
