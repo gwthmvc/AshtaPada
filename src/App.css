@@ -17,8 +17,15 @@ body {
   margin: 5vmin;
 }
 
+
+/* Wooden Grain color background?? */
 .grid div {
-  background-color: #F4D03F;
+ 
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.15)), /* Soft lighting layer */
+    repeating-linear-gradient(90deg, #9d6c3c 0px, #9d6c3c 2px, #815438 2px, #815438 4px); /* Grain layer */
+
+
 }
 
 /* To get XX on the baord [4,5], [25, 33], [32, 40], [60, 61], [28, 29, 36, 37] */
