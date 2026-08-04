@@ -7,25 +7,25 @@
 
 /* Base button */
 .btn {
-  background-color: #007bff;
-  color: #ffffff;
+  background-color: #F4D03F;
+  color: #e53935;
   padding: 12px 24px;
-  font-size: 16px;
+  font-size: 1.2rem;
   font-weight: bold;
   border: none;
-  border-radius: 6px;
+  border-radius: 1rem;
   cursor: pointer;
   transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
 /* Hover state */
 .btn:hover {
-  background-color: #0056b3;
+  background-color: #ffcd03;
 }
 
 /* Focus state */
 .btn:focus {
-  outline: 3px solid #99c2ff;
+  outline: 3px solid #e53935;
 }
 
 /* Active state */
