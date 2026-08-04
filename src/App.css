@@ -39,3 +39,8 @@ body {
   linear-gradient(to bottom right, transparent calc(50% - 2px), #0D0D11 calc(50% - 2px), #0D0D11 calc(50% + 2px), transparent calc(50% + 2px)),
   linear-gradient(to top right, transparent calc(50% - 2px), #0D0D11 calc(50% - 2px), #0D0D11 calc(50% + 2px), transparent calc(50% + 2px));
 }
+
+.title{
+  text-align: center;
+  color: var(--rw-yellow);
+}
