@@ -3,21 +3,25 @@ import Button from "../components/Button";
 import Board from "../components/Board";
 import "../styles/GamePage.css"
 import RollBoard from "../components/RollBoard";
+import PlayerBoard from "../components/PlayerBoard";
 
 export default function GamePage(){
     return(
         <>
         <Header />
         <div className="FullLayout">
-            <div className="PlayerBoard"></div>
+            
+            <PlayerBoard />
+            
             <div className="Gamepage">
             <Board />
-            <Button />
+            
             </div>
             <div className="ScoreBoard">
                 <RollBoard/>
             </div>
          </div>
+         <Button />
         </>
        
     )
