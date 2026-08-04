@@ -1,0 +1,13 @@
+.RollBoard{
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    border-bottom: 3px solid var(--rw-red);
+}
+
