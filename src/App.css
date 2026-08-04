@@ -33,7 +33,7 @@ body {
   background-color: var(--rw-yellow);
 }
 
-/* To get XX on the baord [4,5], [25, 33], [32, 40], [60, 61], [28, 29, 36, 37] */
+/* To get XX on the baord [4,5], [25, 33], [32, 40], [60, 61], [28, 29, 36, 37], [1, 8, 57, 64] */
 .xx{
   background: 
   linear-gradient(to bottom right, transparent calc(50% - 2px), #0D0D11 calc(50% - 2px), #0D0D11 calc(50% + 2px), transparent calc(50% + 2px)),

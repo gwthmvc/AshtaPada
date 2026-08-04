@@ -7,38 +7,6 @@ function App() {
   return (
     <>
     <div className="grid">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div className='xx'></div>
-      <div className='xx'></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div className='xx'></div>
-      <div></div>
-      <div></div>
-      <div className='xx'></div>
-      <div className='xx'></div>
-      <div></div>
-      <div></div>
-      <div className='xx'></div>
       <div className='xx'></div>
       <div></div>
       <div></div>
@@ -63,14 +31,46 @@ function App() {
       <div></div>
       <div></div>
       <div></div>
-      <div></div>
+      <div className='xx'></div>
       <div></div>
       <div></div>
       <div className='xx'></div>
       <div className='xx'></div>
       <div></div>
       <div></div>
+      <div className='xx'></div>
+      <div className='xx'></div>
       <div></div>
+      <div></div>
+      <div className='xx'></div>
+      <div className='xx'></div>
+      <div></div>
+      <div></div>
+      <div className='xx'></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div className='xx'></div>
+      <div></div>
+      <div></div>
+      <div className='xx'></div>
+      <div className='xx'></div>
+      <div></div>
+      <div></div>
+      <div className='xx'></div>
     </div>
 
 
